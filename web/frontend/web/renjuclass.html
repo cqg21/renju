@@ -126,10 +126,6 @@
             //当前手数，会被初始化为1
             _obj.curr_step = 1;
 
-            //以下两个变量表示“是否是我参与的游戏”、“当前是否轮到我下棋”
-            _obj.is_my_game = false;
-            _obj.is_my_turn = false;
-
             //load 一个游戏数据。
             _obj.load = function( game_record ){
                 //为了播放声音，这里对比一下旧盘面和新load的盘面，决定是否播放一次声音
@@ -424,7 +420,14 @@
                 obj.actionTALK(row);
             };
             obj.actionGOTO = function(row){
-
+                while(board.get_current_board().length > row.content * 2)
+                {
+                    if(!board.move_pre()) break;
+                }
+                while(board.get_current_board().length < row.content * 2)
+                {
+                    if(!board.move_next()) break;
+                }
             };
             obj.actionBACK = function(row){
                 board.move_pre();
@@ -442,11 +445,10 @@
                 board.load('');
             };
             obj.actionLOAD = function(row){
-                console.log(row);
                 board.load(row.content);
             };
             obj.actionLAST = function(row){
-
+                board.board_end();
             };
             //事件处理结束
         };
