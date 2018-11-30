@@ -543,28 +543,28 @@
         "time": "13:57:00",
         "time_int": 50220,
         "user": "RenjuTeacher",
-        "content": "HH"
+        "content": "88"
     },
     {
         "action": "MOVE",
         "time": "13:57:05",
         "time_int": 50225,
         "user": "RenjuTeacher",
-        "content": "II"
+        "content": "99"
     },
     {
         "action": "MOVE",
         "time": "13:57:10",
         "time_int": 50230,
         "user": "RenjuTeacher",
-        "content": "JG"
+        "content": "a7"
     },
     {
         "action": "MOVE",
         "time": "13:57:13",
         "time_int": 50233,
         "user": "RenjuTeacher",
-        "content": "IJ"
+        "content": "9a"
     },
     {
         "action": "TALK",
@@ -641,7 +641,7 @@
         "time": "13:58:28",
         "time_int": 50308,
         "user": "lq20008",
-        "content": "IH"
+        "content": "98"
     },
     {
         "action": "TALK",
@@ -662,7 +662,7 @@
         "time": "13:58:48",
         "time_int": 50328,
         "user": "lq20008",
-        "content": "IG"
+        "content": "97"
     },
     {
         "action": "TALK",
@@ -704,7 +704,7 @@
         "time": "13:59:09",
         "time_int": 50349,
         "user": "lq20008",
-        "content": "IG"
+        "content": "97"
     },
     {
         "action": "TALK",
@@ -732,7 +732,7 @@
         "time": "13:59:20",
         "time_int": 50360,
         "user": "lq20008",
-        "content": "JH"
+        "content": "a8"
     },
     {
         "action": "TALK",
@@ -760,14 +760,14 @@
         "time": "13:59:28",
         "time_int": 50368,
         "user": "RenjuTeacher",
-        "content": "IJ"
+        "content": "9a"
     },
     {
         "action": "MOVE",
         "time": "13:59:30",
         "time_int": 50370,
         "user": "lq20008",
-        "content": "HG"
+        "content": "87"
     },
     {
         "action": "TALK",
@@ -795,14 +795,14 @@
         "time": "13:59:48",
         "time_int": 50388,
         "user": "lq20008",
-        "content": "JF"
+        "content": "a6"
     },
     {
         "action": "MOVE",
         "time": "14:00:01",
         "time_int": 50401,
         "user": "RenjuTeacher",
-        "content": "JI"
+        "content": "a9"
     },
     {
         "action": "TALK",
@@ -816,70 +816,70 @@
         "time": "14:00:50",
         "time_int": 50450,
         "user": "lq20008",
-        "content": "IG"
+        "content": "97"
     },
     {
         "action": "MOVE",
         "time": "14:00:58",
         "time_int": 50458,
         "user": "RenjuTeacher",
-        "content": "GI"
+        "content": "79"
     },
     {
         "action": "MOVE",
         "time": "14:01:07",
         "time_int": 50467,
         "user": "lq20008",
-        "content": "HI"
+        "content": "89"
     },
     {
         "action": "MOVE",
         "time": "14:01:08",
         "time_int": 50468,
         "user": "RenjuTeacher",
-        "content": "HK"
+        "content": "8b"
     },
     {
         "action": "MOVE",
         "time": "14:01:19",
         "time_int": 50479,
         "user": "lq20008",
-        "content": "GL"
+        "content": "7c"
     },
     {
         "action": "MOVE",
         "time": "14:01:22",
         "time_int": 50482,
         "user": "RenjuTeacher",
-        "content": "IK"
+        "content": "9b"
     },
     {
         "action": "MOVE",
         "time": "14:01:45",
         "time_int": 50505,
         "user": "lq20008",
-        "content": "IH"
+        "content": "98"
     },
     {
         "action": "MOVE",
         "time": "14:01:47",
         "time_int": 50507,
         "user": "RenjuTeacher",
-        "content": "GJ"
+        "content": "7a"
     },
     {
         "action": "MOVE",
         "time": "14:01:53",
         "time_int": 50513,
         "user": "lq20008",
-        "content": "IL"
+        "content": "9c"
     },
     {
         "action": "MOVE",
         "time": "14:01:56",
         "time_int": 50516,
         "user": "RenjuTeacher",
-        "content": "HJ"
+        "content": "8a"
     },
     {
         "action": "TALK",
@@ -1019,14 +1019,14 @@
         "time": "14:03:03",
         "time_int": 50583,
         "user": "RenjuTeacher",
-        "content": "JH"
+        "content": "a8"
     },
     {
         "action": "MOVE",
         "time": "14:03:04",
         "time_int": 50584,
         "user": "RenjuTeacher",
-        "content": "HI"
+        "content": "89"
     },
     {
         "action": "TALK",
@@ -1068,14 +1068,14 @@
         "time": "14:03:28",
         "time_int": 50608,
         "user": "RenjuTeacher",
-        "content": "GF"
+        "content": "76"
     },
     {
         "action": "MOVE",
         "time": "14:03:29",
         "time_int": 50609,
         "user": "RenjuTeacher",
-        "content": "JG"
+        "content": "a7"
     },
     {
         "action": "TALK",
@@ -1229,7 +1229,7 @@
         "time": "14:07:20",
         "time_int": 50840,
         "user": "RenjuTeacher",
-        "content": "FG"
+        "content": "67"
     },
     {
         "action": "TALK",
@@ -1250,7 +1250,7 @@
         "time": "14:07:30",
         "time_int": 50850,
         "user": "RenjuTeacher",
-        "content": "HI"
+        "content": "89"
     },
     {
         "action": "TALK",
@@ -1271,7 +1271,7 @@
         "time": "14:07:34",
         "time_int": 50854,
         "user": "RenjuTeacher",
-        "content": "GI"
+        "content": "79"
     },
     {
         "action": "TALK",
@@ -1292,7 +1292,7 @@
         "time": "14:07:38",
         "time_int": 50858,
         "user": "RenjuTeacher",
-        "content": "HF"
+        "content": "86"
     },
     {
         "action": "TALK",
@@ -1320,7 +1320,7 @@
         "time": "14:07:53",
         "time_int": 50873,
         "user": "RenjuTeacher",
-        "content": "FG"
+        "content": "67"
     },
     {
         "action": "BACK",
@@ -1334,7 +1334,7 @@
         "time": "14:07:55",
         "time_int": 50875,
         "user": "RenjuTeacher",
-        "content": "HI"
+        "content": "89"
     },
     {
         "action": "BACK",
@@ -1348,7 +1348,7 @@
         "time": "14:07:57",
         "time_int": 50877,
         "user": "RenjuTeacher",
-        "content": "GI"
+        "content": "79"
     },
     {
         "action": "BACK",
@@ -1362,7 +1362,7 @@
         "time": "14:07:59",
         "time_int": 50879,
         "user": "RenjuTeacher",
-        "content": "HF"
+        "content": "86"
     },
     {
         "action": "BACK",
@@ -1383,14 +1383,14 @@
         "time": "14:08:10",
         "time_int": 50890,
         "user": "RenjuTeacher",
-        "content": "GI"
+        "content": "79"
     },
     {
         "action": "MOVE",
         "time": "14:08:19",
         "time_int": 50899,
         "user": "Samsone",
-        "content": "IG"
+        "content": "97"
     },
     {
         "action": "TALK",
@@ -1404,7 +1404,7 @@
         "time": "14:08:25",
         "time_int": 50905,
         "user": "RenjuTeacher",
-        "content": "GG"
+        "content": "77"
     },
     {
         "action": "TALK",
@@ -1418,7 +1418,7 @@
         "time": "14:08:29",
         "time_int": 50909,
         "user": "Samsone",
-        "content": "GH"
+        "content": "78"
     },
     {
         "action": "TALK",
@@ -1432,56 +1432,56 @@
         "time": "14:08:31",
         "time_int": 50911,
         "user": "RenjuTeacher",
-        "content": "HF"
+        "content": "86"
     },
     {
         "action": "MOVE",
         "time": "14:08:34",
         "time_int": 50914,
         "user": "Samsone",
-        "content": "IF"
+        "content": "96"
     },
     {
         "action": "MOVE",
         "time": "14:08:37",
         "time_int": 50917,
         "user": "RenjuTeacher",
-        "content": "IE"
+        "content": "95"
     },
     {
         "action": "MOVE",
         "time": "14:08:43",
         "time_int": 50923,
         "user": "Samsone",
-        "content": "FH"
+        "content": "68"
     },
     {
         "action": "MOVE",
         "time": "14:08:53",
         "time_int": 50933,
         "user": "RenjuTeacher",
-        "content": "HE"
+        "content": "85"
     },
     {
         "action": "MOVE",
         "time": "14:08:57",
         "time_int": 50937,
         "user": "Samsone",
-        "content": "HG"
+        "content": "87"
     },
     {
         "action": "MOVE",
         "time": "14:09:01",
         "time_int": 50941,
         "user": "RenjuTeacher",
-        "content": "JE"
+        "content": "a5"
     },
     {
         "action": "MOVE",
         "time": "14:09:11",
         "time_int": 50951,
         "user": "Samsone",
-        "content": "GE"
+        "content": "75"
     },
     {
         "action": "TALK",
@@ -1495,7 +1495,7 @@
         "time": "14:09:25",
         "time_int": 50965,
         "user": "RenjuTeacher",
-        "content": "JC"
+        "content": "a3"
     },
     {
         "action": "TALK",
@@ -1509,7 +1509,7 @@
         "time": "14:09:39",
         "time_int": 50979,
         "user": "Samsone",
-        "content": "ID"
+        "content": "94"
     },
     {
         "action": "TALK",
@@ -1523,7 +1523,7 @@
         "time": "14:09:42",
         "time_int": 50982,
         "user": "RenjuTeacher",
-        "content": "JD"
+        "content": "a4"
     },
     {
         "action": "TALK",
@@ -1656,14 +1656,14 @@
         "time": "14:10:11",
         "time_int": 51011,
         "user": "RenjuTeacher",
-        "content": "IF"
+        "content": "96"
     },
     {
         "action": "MOVE",
         "time": "14:10:20",
         "time_int": 51020,
         "user": "RenjuTeacher",
-        "content": "IJ"
+        "content": "9a"
     },
     {
         "action": "TALK",
@@ -1754,7 +1754,7 @@
         "time": "14:11:04",
         "time_int": 51064,
         "user": "RenjuTeacher",
-        "content": "IK"
+        "content": "9b"
     },
     {
         "action": "TALK",
@@ -1775,7 +1775,7 @@
         "time": "14:11:08",
         "time_int": 51068,
         "user": "RenjuTeacher",
-        "content": "GI"
+        "content": "79"
     },
     {
         "action": "TALK",
@@ -1796,7 +1796,7 @@
         "time": "14:11:11",
         "time_int": 51071,
         "user": "RenjuTeacher",
-        "content": "HG"
+        "content": "87"
     },
     {
         "action": "TALK",
@@ -1817,7 +1817,7 @@
         "time": "14:11:14",
         "time_int": 51074,
         "user": "RenjuTeacher",
-        "content": "HF"
+        "content": "86"
     },
     {
         "action": "TALK",
@@ -1859,7 +1859,7 @@
         "time": "14:11:40",
         "time_int": 51100,
         "user": "RenjuTeacher",
-        "content": "IK"
+        "content": "9b"
     },
     {
         "action": "TALK",
@@ -1880,42 +1880,42 @@
         "time": "14:11:57",
         "time_int": 51117,
         "user": "xsir317",
-        "content": "HJ"
+        "content": "8a"
     },
     {
         "action": "MOVE",
         "time": "14:12:32",
         "time_int": 51152,
         "user": "RenjuTeacher",
-        "content": "JJ"
+        "content": "aa"
     },
     {
         "action": "MOVE",
         "time": "14:13:06",
         "time_int": 51186,
         "user": "xsir317",
-        "content": "JH"
+        "content": "a8"
     },
     {
         "action": "MOVE",
         "time": "14:13:11",
         "time_int": 51191,
         "user": "RenjuTeacher",
-        "content": "KG"
+        "content": "b7"
     },
     {
         "action": "MOVE",
         "time": "14:13:21",
         "time_int": 51201,
         "user": "xsir317",
-        "content": "HL"
+        "content": "8c"
     },
     {
         "action": "MOVE",
         "time": "14:13:29",
         "time_int": 51209,
         "user": "RenjuTeacher",
-        "content": "HK"
+        "content": "8b"
     },
     {
         "action": "TALK",
@@ -1929,42 +1929,42 @@
         "time": "14:14:19",
         "time_int": 51259,
         "user": "xsir317",
-        "content": "GK"
+        "content": "7b"
     },
     {
         "action": "MOVE",
         "time": "14:14:38",
         "time_int": 51278,
         "user": "RenjuTeacher",
-        "content": "FL"
+        "content": "6c"
     },
     {
         "action": "MOVE",
         "time": "14:14:44",
         "time_int": 51284,
         "user": "xsir317",
-        "content": "FJ"
+        "content": "6a"
     },
     {
         "action": "MOVE",
         "time": "14:14:54",
         "time_int": 51294,
         "user": "RenjuTeacher",
-        "content": "EI"
+        "content": "59"
     },
     {
         "action": "MOVE",
         "time": "14:15:20",
         "time_int": 51320,
         "user": "xsir317",
-        "content": "GJ"
+        "content": "7a"
     },
     {
         "action": "MOVE",
         "time": "14:15:23",
         "time_int": 51323,
         "user": "RenjuTeacher",
-        "content": "EJ"
+        "content": "5a"
     },
     {
         "action": "TALK",
@@ -2118,7 +2118,7 @@
         "time": "14:16:55",
         "time_int": 51415,
         "user": "RenjuTeacher",
-        "content": "GJ"
+        "content": "7a"
     },
     {
         "action": "TALK",
@@ -2251,7 +2251,7 @@
         "time": "14:19:22",
         "time_int": 51562,
         "user": "Samsone",
-        "content": "IG"
+        "content": "97"
     },
     {
         "action": "BACK",
@@ -2265,7 +2265,7 @@
         "time": "14:19:26",
         "time_int": 51566,
         "user": "Samsone",
-        "content": "HF"
+        "content": "86"
     },
     {
         "action": "BACK",
@@ -2279,7 +2279,7 @@
         "time": "14:19:29",
         "time_int": 51569,
         "user": "Samsone",
-        "content": "JH"
+        "content": "a8"
     },
     {
         "action": "BACK",
@@ -2293,7 +2293,7 @@
         "time": "14:19:32",
         "time_int": 51572,
         "user": "Samsone",
-        "content": "GH"
+        "content": "78"
     },
     {
         "action": "BACK",
@@ -2307,7 +2307,7 @@
         "time": "14:19:35",
         "time_int": 51575,
         "user": "Samsone",
-        "content": "JG"
+        "content": "a7"
     },
     {
         "action": "BACK",
@@ -2335,14 +2335,14 @@
         "time": "14:19:59",
         "time_int": 51599,
         "user": "Samsone",
-        "content": "JG"
+        "content": "a7"
     },
     {
         "action": "MOVE",
         "time": "14:20:10",
         "time_int": 51610,
         "user": "Fermat",
-        "content": "GI"
+        "content": "79"
     },
     {
         "action": "TALK",
@@ -2370,7 +2370,7 @@
         "time": "14:20:25",
         "time_int": 51625,
         "user": "Samsone",
-        "content": "GH"
+        "content": "78"
     },
     {
         "action": "BACK",
@@ -2440,35 +2440,35 @@
         "time": "14:20:47",
         "time_int": 51647,
         "user": "RenjuTeacher",
-        "content": "HH"
+        "content": "88"
     },
     {
         "action": "MOVE",
         "time": "14:20:48",
         "time_int": 51648,
         "user": "RenjuTeacher",
-        "content": "II"
+        "content": "99"
     },
     {
         "action": "MOVE",
         "time": "14:20:49",
         "time_int": 51649,
         "user": "RenjuTeacher",
-        "content": "IF"
+        "content": "96"
     },
     {
         "action": "MOVE",
         "time": "14:20:50",
         "time_int": 51650,
         "user": "RenjuTeacher",
-        "content": "GI"
+        "content": "79"
     },
     {
         "action": "MOVE",
         "time": "14:20:51",
         "time_int": 51651,
         "user": "RenjuTeacher",
-        "content": "JG"
+        "content": "a7"
     },
     {
         "action": "TALK",
@@ -2489,7 +2489,7 @@
         "time": "14:21:00",
         "time_int": 51660,
         "user": "RenjuTeacher",
-        "content": "GJ"
+        "content": "7a"
     },
     {
         "action": "TALK",
@@ -2538,7 +2538,7 @@
         "time": "14:21:21",
         "time_int": 51681,
         "user": "RenjuTeacher",
-        "content": "GJ"
+        "content": "7a"
     },
     {
         "action": "TALK",
@@ -2559,7 +2559,7 @@
         "time": "14:22:01",
         "time_int": 51721,
         "user": "Samsone",
-        "content": "JH"
+        "content": "a8"
     },
     {
         "action": "TALK",
@@ -2587,28 +2587,28 @@
         "time": "14:23:02",
         "time_int": 51782,
         "user": "Fermat",
-        "content": "GI"
+        "content": "79"
     },
     {
         "action": "MOVE",
         "time": "14:23:09",
         "time_int": 51789,
         "user": "Samsone",
-        "content": "GH"
+        "content": "78"
     },
     {
         "action": "MOVE",
         "time": "14:23:21",
         "time_int": 51801,
         "user": "Fermat",
-        "content": "IH"
+        "content": "98"
     },
     {
         "action": "MOVE",
         "time": "14:23:26",
         "time_int": 51806,
         "user": "Samsone",
-        "content": "HG"
+        "content": "87"
     },
     {
         "action": "TALK",
@@ -2622,70 +2622,70 @@
         "time": "14:23:56",
         "time_int": 51836,
         "user": "Fermat",
-        "content": "JE"
+        "content": "a5"
     },
     {
         "action": "MOVE",
         "time": "14:24:14",
         "time_int": 51854,
         "user": "Samsone",
-        "content": "FI"
+        "content": "69"
     },
     {
         "action": "MOVE",
         "time": "14:24:17",
         "time_int": 51857,
         "user": "Fermat",
-        "content": "EJ"
+        "content": "5a"
     },
     {
         "action": "MOVE",
         "time": "14:24:21",
         "time_int": 51861,
         "user": "Samsone",
-        "content": "HE"
+        "content": "85"
     },
     {
         "action": "MOVE",
         "time": "14:24:37",
         "time_int": 51877,
         "user": "Fermat",
-        "content": "HF"
+        "content": "86"
     },
     {
         "action": "MOVE",
         "time": "14:24:39",
         "time_int": 51879,
         "user": "Samsone",
-        "content": "JG"
+        "content": "a7"
     },
     {
         "action": "MOVE",
         "time": "14:24:46",
         "time_int": 51886,
         "user": "Fermat",
-        "content": "GD"
+        "content": "74"
     },
     {
         "action": "MOVE",
         "time": "14:25:01",
         "time_int": 51901,
         "user": "Samsone",
-        "content": "KH"
+        "content": "b8"
     },
     {
         "action": "MOVE",
         "time": "14:25:04",
         "time_int": 51904,
         "user": "Fermat",
-        "content": "LI"
+        "content": "c9"
     },
     {
         "action": "MOVE",
         "time": "14:25:04",
         "time_int": 51904,
         "user": "Samsone",
-        "content": "IG"
+        "content": "97"
     },
     {
         "action": "TALK",
@@ -2727,28 +2727,28 @@
         "time": "14:25:58",
         "time_int": 51958,
         "user": "RenjuTeacher",
-        "content": "HH"
+        "content": "88"
     },
     {
         "action": "MOVE",
         "time": "14:25:59",
         "time_int": 51959,
         "user": "RenjuTeacher",
-        "content": "II"
+        "content": "99"
     },
     {
         "action": "MOVE",
         "time": "14:26:00",
         "time_int": 51960,
         "user": "RenjuTeacher",
-        "content": "HF"
+        "content": "86"
     },
     {
         "action": "MOVE",
         "time": "14:26:01",
         "time_int": 51961,
         "user": "RenjuTeacher",
-        "content": "KI"
+        "content": "b9"
     },
     {
         "action": "TALK",
@@ -3399,7 +3399,7 @@
         "time": "14:39:45",
         "time_int": 52785,
         "user": "RenjuTeacher",
-        "content": "KK"
+        "content": "bb"
     },
     {
         "action": "TALK",
@@ -3427,7 +3427,7 @@
         "time": "14:39:49",
         "time_int": 52789,
         "user": "RenjuTeacher",
-        "content": "JK"
+        "content": "ab"
     },
     {
         "action": "BACK",
@@ -3441,7 +3441,7 @@
         "time": "14:39:51",
         "time_int": 52791,
         "user": "RenjuTeacher",
-        "content": "IK"
+        "content": "9b"
     },
     {
         "action": "BACK",
@@ -3455,7 +3455,7 @@
         "time": "14:39:53",
         "time_int": 52793,
         "user": "RenjuTeacher",
-        "content": "HK"
+        "content": "8b"
     },
     {
         "action": "BACK",
@@ -3469,7 +3469,7 @@
         "time": "14:39:55",
         "time_int": 52795,
         "user": "RenjuTeacher",
-        "content": "GK"
+        "content": "7b"
     },
     {
         "action": "TALK",
@@ -3497,7 +3497,7 @@
         "time": "14:39:57",
         "time_int": 52797,
         "user": "RenjuTeacher",
-        "content": "FK"
+        "content": "6b"
     },
     {
         "action": "BACK",
@@ -3574,7 +3574,7 @@
         "time": "14:41:45",
         "time_int": 52905,
         "user": "RenjuTeacher",
-        "content": "HE"
+        "content": "85"
     },
     {
         "action": "TALK",
@@ -3700,7 +3700,7 @@
         "time": "14:44:27",
         "time_int": 53067,
         "user": "RenjuTeacher",
-        "content": "EE"
+        "content": "55"
     },
     {
         "action": "BACK",
@@ -3714,7 +3714,7 @@
         "time": "14:44:30",
         "time_int": 53070,
         "user": "RenjuTeacher",
-        "content": "KE"
+        "content": "b5"
     },
     {
         "action": "TALK",
@@ -3868,7 +3868,7 @@
         "time": "14:46:26",
         "time_int": 53186,
         "user": "RenjuTeacher",
-        "content": "IK"
+        "content": "9b"
     },
     {
         "action": "TALK",
@@ -4029,7 +4029,7 @@
         "time": "14:48:11",
         "time_int": 53291,
         "user": "RenjuTeacher",
-        "content": "HG"
+        "content": "87"
     },
     {
         "action": "TALK",
@@ -4050,7 +4050,7 @@
         "time": "14:48:34",
         "time_int": 53314,
         "user": "xsir317",
-        "content": "GI"
+        "content": "79"
     },
     {
         "action": "BACK",
@@ -4078,7 +4078,7 @@
         "time": "14:49:11",
         "time_int": 53351,
         "user": "xsir317",
-        "content": "JI"
+        "content": "a9"
     },
     {
         "action": "BACK",
@@ -4092,21 +4092,21 @@
         "time": "14:49:41",
         "time_int": 53381,
         "user": "RenjuTeacher",
-        "content": "GI"
+        "content": "79"
     },
     {
         "action": "MOVE",
         "time": "14:49:45",
         "time_int": 53385,
         "user": "RenjuTeacher",
-        "content": "IG"
+        "content": "97"
     },
     {
         "action": "MOVE",
         "time": "14:50:12",
         "time_int": 53412,
         "user": "xsir317",
-        "content": "JG"
+        "content": "a7"
     },
     {
         "action": "TALK",
@@ -4141,7 +4141,7 @@
         "time": "14:52:15",
         "time_int": 53535,
         "user": "RenjuTeacher",
-        "content": "KI"
+        "content": "b9"
     },
     {
         "action": "TALK",
@@ -4155,7 +4155,7 @@
         "time": "14:52:30",
         "time_int": 53550,
         "user": "xsir317",
-        "content": "HJ"
+        "content": "8a"
     },
     {
         "action": "TALK",
@@ -4176,28 +4176,28 @@
         "time": "14:54:06",
         "time_int": 53646,
         "user": "RenjuTeacher",
-        "content": "FH"
+        "content": "68"
     },
     {
         "action": "MOVE",
         "time": "14:54:11",
         "time_int": 53651,
         "user": "xsir317",
-        "content": "IH"
+        "content": "98"
     },
     {
         "action": "MOVE",
         "time": "14:54:28",
         "time_int": 53668,
         "user": "RenjuTeacher",
-        "content": "JH"
+        "content": "a8"
     },
     {
         "action": "MOVE",
         "time": "14:54:33",
         "time_int": 53673,
         "user": "xsir317",
-        "content": "HF"
+        "content": "86"
     },
     {
         "action": "TALK",
@@ -4211,7 +4211,7 @@
         "time": "14:55:57",
         "time_int": 53757,
         "user": "RenjuTeacher",
-        "content": "HI"
+        "content": "89"
     },
     {
         "action": "TALK",
@@ -4239,7 +4239,7 @@
         "time": "14:56:54",
         "time_int": 53814,
         "user": "xsir317",
-        "content": "LI"
+        "content": "c9"
     },
     {
         "action": "TALK",
@@ -4267,7 +4267,7 @@
         "time": "14:57:48",
         "time_int": 53868,
         "user": "RenjuTeacher",
-        "content": "KG"
+        "content": "b7"
     },
     {
         "action": "BACK",
@@ -4372,7 +4372,7 @@
         "time": "14:58:04",
         "time_int": 53884,
         "user": "RenjuTeacher",
-        "content": "GK"
+        "content": "7b"
     },
     {
         "action": "TALK",
@@ -4463,7 +4463,7 @@
         "time": "14:59:50",
         "time_int": 53990,
         "user": "slappanu",
-        "content": "IG"
+        "content": "97"
     },
     {
         "action": "TALK",
@@ -4477,7 +4477,7 @@
         "time": "15:00:16",
         "time_int": 54016,
         "user": "xsir317",
-        "content": "GI"
+        "content": "79"
     },
     {
         "action": "BACK",
@@ -4491,7 +4491,7 @@
         "time": "15:01:05",
         "time_int": 54065,
         "user": "xsir317",
-        "content": "IJ"
+        "content": "9a"
     },
     {
         "action": "BACK",
@@ -4505,49 +4505,49 @@
         "time": "15:01:09",
         "time_int": 54069,
         "user": "slappanu",
-        "content": "GI"
+        "content": "79"
     },
     {
         "action": "MOVE",
         "time": "15:01:10",
         "time_int": 54070,
         "user": "slappanu",
-        "content": "IF"
+        "content": "96"
     },
     {
         "action": "MOVE",
         "time": "15:01:39",
         "time_int": 54099,
         "user": "xsir317",
-        "content": "IH"
+        "content": "98"
     },
     {
         "action": "MOVE",
         "time": "15:01:41",
         "time_int": 54101,
         "user": "slappanu",
-        "content": "HG"
+        "content": "87"
     },
     {
         "action": "MOVE",
         "time": "15:02:23",
         "time_int": 54143,
         "user": "xsir317",
-        "content": "GG"
+        "content": "77"
     },
     {
         "action": "MOVE",
         "time": "15:02:26",
         "time_int": 54146,
         "user": "slappanu",
-        "content": "GH"
+        "content": "78"
     },
     {
         "action": "MOVE",
         "time": "15:02:35",
         "time_int": 54155,
         "user": "xsir317",
-        "content": "FI"
+        "content": "69"
     },
     {
         "action": "TALK",
@@ -4659,7 +4659,7 @@
         "time": "15:03:39",
         "time_int": 54219,
         "user": "slappanu",
-        "content": "IH"
+        "content": "98"
     },
     {
         "action": "TALK",
@@ -4673,14 +4673,14 @@
         "time": "15:03:52",
         "time_int": 54232,
         "user": "xsir317",
-        "content": "IF"
+        "content": "96"
     },
     {
         "action": "MOVE",
         "time": "15:03:55",
         "time_int": 54235,
         "user": "slappanu",
-        "content": "HG"
+        "content": "87"
     },
     {
         "action": "TALK",
@@ -4694,28 +4694,28 @@
         "time": "15:04:31",
         "time_int": 54271,
         "user": "xsir317",
-        "content": "GG"
+        "content": "77"
     },
     {
         "action": "MOVE",
         "time": "15:04:47",
         "time_int": 54287,
         "user": "slappanu",
-        "content": "GF"
+        "content": "76"
     },
     {
         "action": "MOVE",
         "time": "15:05:02",
         "time_int": 54302,
         "user": "xsir317",
-        "content": "JI"
+        "content": "a9"
     },
     {
         "action": "MOVE",
         "time": "15:05:06",
         "time_int": 54306,
         "user": "slappanu",
-        "content": "GJ"
+        "content": "7a"
     },
     {
         "action": "TALK",
@@ -4729,28 +4729,28 @@
         "time": "15:05:41",
         "time_int": 54341,
         "user": "xsir317",
-        "content": "IK"
+        "content": "9b"
     },
     {
         "action": "MOVE",
         "time": "15:06:15",
         "time_int": 54375,
         "user": "slappanu",
-        "content": "FK"
+        "content": "6b"
     },
     {
         "action": "MOVE",
         "time": "15:06:23",
         "time_int": 54383,
         "user": "xsir317",
-        "content": "HI"
+        "content": "89"
     },
     {
         "action": "MOVE",
         "time": "15:06:27",
         "time_int": 54387,
         "user": "slappanu",
-        "content": "HJ"
+        "content": "8a"
     },
     {
         "action": "TALK",
@@ -4771,7 +4771,7 @@
         "time": "15:06:43",
         "time_int": 54403,
         "user": "xsir317",
-        "content": "FJ"
+        "content": "6a"
     },
     {
         "action": "TALK",
@@ -4792,7 +4792,7 @@
         "time": "15:06:56",
         "time_int": 54416,
         "user": "slappanu",
-        "content": "EI"
+        "content": "59"
     },
     {
         "action": "TALK",
@@ -4813,14 +4813,14 @@
         "time": "15:07:15",
         "time_int": 54435,
         "user": "xsir317",
-        "content": "JK"
+        "content": "ab"
     },
     {
         "action": "MOVE",
         "time": "15:07:32",
         "time_int": 54452,
         "user": "slappanu",
-        "content": "HK"
+        "content": "8b"
     },
     {
         "action": "TALK",
@@ -4841,7 +4841,7 @@
         "time": "15:08:12",
         "time_int": 54492,
         "user": "xsir317",
-        "content": "JJ"
+        "content": "aa"
     },
     {
         "action": "TALK",
@@ -4855,7 +4855,7 @@
         "time": "15:08:32",
         "time_int": 54512,
         "user": "slappanu",
-        "content": "JH"
+        "content": "a8"
     },
     {
         "action": "TALK",
@@ -4869,28 +4869,28 @@
         "time": "15:08:45",
         "time_int": 54525,
         "user": "xsir317",
-        "content": "HL"
+        "content": "8c"
     },
     {
         "action": "MOVE",
         "time": "15:08:53",
         "time_int": 54533,
         "user": "slappanu",
-        "content": "GM"
+        "content": "7d"
     },
     {
         "action": "MOVE",
         "time": "15:08:58",
         "time_int": 54538,
         "user": "xsir317",
-        "content": "KL"
+        "content": "bc"
     },
     {
         "action": "MOVE",
         "time": "15:09:02",
         "time_int": 54542,
         "user": "slappanu",
-        "content": "GH"
+        "content": "78"
     },
     {
         "action": "TALK",
@@ -4904,35 +4904,35 @@
         "time": "15:09:09",
         "time_int": 54549,
         "user": "xsir317",
-        "content": "JL"
+        "content": "ac"
     },
     {
         "action": "MOVE",
         "time": "15:09:11",
         "time_int": 54551,
         "user": "slappanu",
-        "content": "JN"
+        "content": "ae"
     },
     {
         "action": "MOVE",
         "time": "15:09:15",
         "time_int": 54555,
         "user": "xsir317",
-        "content": "IL"
+        "content": "9c"
     },
     {
         "action": "MOVE",
         "time": "15:09:19",
         "time_int": 54559,
         "user": "slappanu",
-        "content": "LL"
+        "content": "cc"
     },
     {
         "action": "MOVE",
         "time": "15:09:20",
         "time_int": 54560,
         "user": "slappanu",
-        "content": "GL"
+        "content": "7c"
     },
     {
         "action": "BACK",
@@ -5114,21 +5114,21 @@
         "time": "15:09:39",
         "time_int": 54579,
         "user": "RenjuTeacher",
-        "content": "IF"
+        "content": "96"
     },
     {
         "action": "MOVE",
         "time": "15:09:40",
         "time_int": 54580,
         "user": "RenjuTeacher",
-        "content": "HG"
+        "content": "87"
     },
     {
         "action": "MOVE",
         "time": "15:09:40",
         "time_int": 54580,
         "user": "RenjuTeacher",
-        "content": "GG"
+        "content": "77"
     },
     {
         "action": "TALK",
@@ -5149,7 +5149,7 @@
         "time": "15:09:52",
         "time_int": 54592,
         "user": "RenjuTeacher",
-        "content": "GJ"
+        "content": "7a"
     },
     {
         "action": "TALK",
@@ -5177,7 +5177,7 @@
         "time": "15:09:56",
         "time_int": 54596,
         "user": "RenjuTeacher",
-        "content": "JG"
+        "content": "a7"
     },
     {
         "action": "TALK",

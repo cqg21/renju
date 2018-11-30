@@ -35,12 +35,32 @@ function transfer($file)
         $time_split = explode(':',$match[1]);
         $time_int = ($time_split[0] * 3600) + ($time_split[1] * 60) + $time_split[2];
         //time
+        //action and content 坐标转换。
+        $content = $match[4];
+
+        if($match[2] == 'GOTO')
+        {
+            $content = intval($content);
+        }
+        if($match[2] == 'LOAD')
+        {
+            $content = substr($content,6);
+        }
+        if($match[2] == 'MOVE' || $match[2] == 'LOAD')
+        {
+            $tmp = '';
+            for($i = 0 ; $i < strlen($content) ; $i ++)
+            {
+                $tmp .= dechex(ord($content{$i}) - 64);
+            }
+            $content = $tmp;
+        }
         $data[] = [
             'action' => $match[2],
             'time' => $match[1],
             'time_int' => $time_int,
             'user' => $match[3],
-            'content' => $match[4],
+            'content' => $content,
         ];
     }
     return $data;

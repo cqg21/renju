@@ -186,8 +186,8 @@
                 {
                     _obj.endgame = _obj.currgame;
                     //在改变了endgame时，如果不是playing ,则都进入研究模式。
-                    record_player.pause();
-                    _obj.switch_mode('analyze');
+                    //record_player.pause();
+                    //_obj.switch_mode('analyze');
                 }
                 if(play_sound)
                 {
@@ -195,13 +195,6 @@
                 }
 
                 return true;
-            };
-
-            _obj.show_analyze = function(board_str){
-                _obj.switch_mode('analyze');
-                _obj.board_clean();
-                _obj.endgame = board_str;
-                _obj.board_end();
             };
 
             _obj.get_current_board = function () {
@@ -302,7 +295,8 @@
                     board.append(newrow);
                 }
                 board.find('.row div').click(function(){
-                    _obj.place_stone($(this).attr('alt'),true);
+                    //_obj.place_stone($(this).attr('alt'),true);
+                    alert("暂不提供研究、摆棋功能。");
                     return true;
                 });
                 //生成控制按钮
@@ -377,6 +371,7 @@
 
             obj.renderRow = function(row){
                 console.log(row['action']);
+                console.log(row);
                 let function_name = 'action'+row['action'];
                 if(typeof obj[function_name] == 'function')
                 {
@@ -385,6 +380,13 @@
                 else
                 {
                     console.log(row);
+                }
+                if($("#chat_content").find("li").length > 150)
+                {
+                    for(let i = 1; i <= 100; i ++)
+                    {
+                        $("#chat_content").find("li:first").remove();
+                    }
                 }
                 $("#chat_content_list").scrollTop($("#chat_content_list")[0].scrollHeight - $("#chat_content_list").height());
             };
@@ -405,44 +407,43 @@
             };
             obj.actionMOVE = function(row){
                 //coordinate
-                let c_x = row.content.charCodeAt(0) - 64;
-                let c_y = row.content.charCodeAt(1) - 64;
-                let coordinate = c_x.toString(16) + c_y.toString(16);
-                console.log(board.curr_step);
-                let show_content = board.curr_step.toString() + ' - ' + row.content.charAt(0) + c_y.toString();
+                let c_x = parseInt(row.content.charAt(0),16) + 96;
+                let c_y = parseInt(row.content.charAt(1),16);
+                let show_content = board.curr_step.toString() + ' - ' + String.fromCharCode(c_x) + c_y.toString();
 
-                board.place_stone(coordinate);
+                board.place_stone(row.content);
                 let _content = $("<span>").html(row.user + ': ' + show_content).addClass("chat-move");
                 let li = $("<li>");
                 li.append(_content);
                 li.appendTo($("#chat_content"));
             };
             obj.actionCHECKRESULT = function(row){
-
+                return false;
             };
             obj.actionEMOTE = function(row){
-
+                obj.actionTALK(row);
             };
             obj.actionGOTO = function(row){
 
             };
             obj.actionBACK = function(row){
-
+                board.move_pre();
             };
             obj.actionFIRST = function(row){
-
+                board.board_clean();
             };
             obj.actionCREDIT = function(row){
-
+                return false;
             };
             obj.actionNEXT = function(row){
-
+                board.move_next();
             };
             obj.actionCLEAR = function(row){
-
+                board.load('');
             };
             obj.actionLOAD = function(row){
-
+                console.log(row);
+                board.load(row.content);
             };
             obj.actionLAST = function(row){
 

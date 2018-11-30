@@ -319,21 +319,21 @@
         "time": "13:36:51",
         "time_int": 49011,
         "user": "GrandMaster",
-        "content": "HH"
+        "content": "88"
     },
     {
         "action": "MOVE",
         "time": "13:36:53",
         "time_int": 49013,
         "user": "GrandMaster",
-        "content": "II"
+        "content": "99"
     },
     {
         "action": "MOVE",
         "time": "13:36:54",
         "time_int": 49014,
         "user": "GrandMaster",
-        "content": "JF"
+        "content": "a6"
     },
     {
         "action": "TALK",
@@ -368,21 +368,21 @@
         "time": "13:37:11",
         "time_int": 49031,
         "user": "GrandMaster",
-        "content": "GI"
+        "content": "79"
     },
     {
         "action": "MOVE",
         "time": "13:37:12",
         "time_int": 49032,
         "user": "GrandMaster",
-        "content": "JH"
+        "content": "a8"
     },
     {
         "action": "MOVE",
         "time": "13:37:13",
         "time_int": 49033,
         "user": "GrandMaster",
-        "content": "HI"
+        "content": "89"
     },
     {
         "action": "TALK",
@@ -459,7 +459,7 @@
         "time": "13:38:56",
         "time_int": 49136,
         "user": "GrandMaster",
-        "content": "FI"
+        "content": "69"
     },
     {
         "action": "TALK",
@@ -732,7 +732,7 @@
         "time": "13:44:07",
         "time_int": 49447,
         "user": "GrandMaster",
-        "content": "GH"
+        "content": "78"
     },
     {
         "action": "TALK",
@@ -760,35 +760,35 @@
         "time": "13:44:47",
         "time_int": 49487,
         "user": "GrandMaster",
-        "content": "JI"
+        "content": "a9"
     },
     {
         "action": "MOVE",
         "time": "13:44:49",
         "time_int": 49489,
         "user": "slappanu",
-        "content": "JG"
+        "content": "a7"
     },
     {
         "action": "MOVE",
         "time": "13:44:52",
         "time_int": 49492,
         "user": "GrandMaster",
-        "content": "GJ"
+        "content": "7a"
     },
     {
         "action": "MOVE",
         "time": "13:45:05",
         "time_int": 49505,
         "user": "slappanu",
-        "content": "IJ"
+        "content": "9a"
     },
     {
         "action": "MOVE",
         "time": "13:45:08",
         "time_int": 49508,
         "user": "GrandMaster",
-        "content": "JK"
+        "content": "ab"
     },
     {
         "action": "TALK",
@@ -802,42 +802,42 @@
         "time": "13:46:00",
         "time_int": 49560,
         "user": "slappanu",
-        "content": "FG"
+        "content": "67"
     },
     {
         "action": "MOVE",
         "time": "13:46:03",
         "time_int": 49563,
         "user": "GrandMaster",
-        "content": "EF"
+        "content": "56"
     },
     {
         "action": "MOVE",
         "time": "13:46:08",
         "time_int": 49568,
         "user": "slappanu",
-        "content": "GF"
+        "content": "76"
     },
     {
         "action": "MOVE",
         "time": "13:46:43",
         "time_int": 49603,
         "user": "GrandMaster",
-        "content": "IH"
+        "content": "98"
     },
     {
         "action": "MOVE",
         "time": "13:47:06",
         "time_int": 49626,
         "user": "slappanu",
-        "content": "EH"
+        "content": "58"
     },
     {
         "action": "MOVE",
         "time": "13:47:13",
         "time_int": 49633,
         "user": "GrandMaster",
-        "content": "HE"
+        "content": "85"
     },
     {
         "action": "TALK",
@@ -858,21 +858,21 @@
         "time": "13:47:42",
         "time_int": 49662,
         "user": "slappanu",
-        "content": "DH"
+        "content": "48"
     },
     {
         "action": "GOTO",
         "time": "13:47:54",
         "time_int": 49674,
         "user": "GrandMaster",
-        "content": "016"
+        "content": 16
     },
     {
         "action": "MOVE",
         "time": "13:48:11",
         "time_int": 49691,
         "user": "GrandMaster",
-        "content": "IG"
+        "content": "97"
     },
     {
         "action": "TALK",
@@ -886,7 +886,7 @@
         "time": "13:48:23",
         "time_int": 49703,
         "user": "slappanu",
-        "content": "EH"
+        "content": "58"
     },
     {
         "action": "TALK",
@@ -907,28 +907,28 @@
         "time": "13:48:36",
         "time_int": 49716,
         "user": "GrandMaster",
-        "content": "HE"
+        "content": "85"
     },
     {
         "action": "MOVE",
         "time": "13:49:12",
         "time_int": 49752,
         "user": "slappanu",
-        "content": "IK"
+        "content": "9b"
     },
     {
         "action": "MOVE",
         "time": "13:49:16",
         "time_int": 49756,
         "user": "GrandMaster",
-        "content": "IL"
+        "content": "9c"
     },
     {
         "action": "MOVE",
         "time": "13:49:22",
         "time_int": 49762,
         "user": "slappanu",
-        "content": "FH"
+        "content": "68"
     },
     {
         "action": "TALK",
@@ -970,14 +970,14 @@
         "time": "13:50:20",
         "time_int": 49820,
         "user": "GrandMaster",
-        "content": "DI"
+        "content": "49"
     },
     {
         "action": "MOVE",
         "time": "13:51:11",
         "time_int": 49871,
         "user": "slappanu",
-        "content": "FH"
+        "content": "68"
     },
     {
         "action": "TALK",
@@ -1005,14 +1005,14 @@
         "time": "13:52:21",
         "time_int": 49941,
         "user": "GrandMaster",
-        "content": "016"
+        "content": 16
     },
     {
         "action": "MOVE",
         "time": "13:52:31",
         "time_int": 49951,
         "user": "GrandMaster",
-        "content": "GG"
+        "content": "77"
     },
     {
         "action": "TALK",
@@ -1040,14 +1040,14 @@
         "time": "13:53:03",
         "time_int": 49983,
         "user": "slappanu",
-        "content": "EH"
+        "content": "58"
     },
     {
         "action": "MOVE",
         "time": "13:53:10",
         "time_int": 49990,
         "user": "GrandMaster",
-        "content": "DI"
+        "content": "49"
     },
     {
         "action": "TALK",
@@ -1068,7 +1068,7 @@
         "time": "13:53:55",
         "time_int": 50035,
         "user": "slappanu",
-        "content": "FH"
+        "content": "68"
     },
     {
         "action": "TALK",
@@ -1082,7 +1082,7 @@
         "time": "13:54:17",
         "time_int": 50057,
         "user": "GrandMaster",
-        "content": "EG"
+        "content": "57"
     },
     {
         "action": "TALK",
@@ -1096,7 +1096,7 @@
         "time": "13:55:00",
         "time_int": 50100,
         "user": "slappanu",
-        "content": "KF"
+        "content": "b6"
     },
     {
         "action": "TALK",
@@ -1117,35 +1117,35 @@
         "time": "13:55:43",
         "time_int": 50143,
         "user": "GrandMaster",
-        "content": "IH"
+        "content": "98"
     },
     {
         "action": "MOVE",
         "time": "13:55:53",
         "time_int": 50153,
         "user": "slappanu",
-        "content": "KH"
+        "content": "b8"
     },
     {
         "action": "MOVE",
         "time": "13:56:05",
         "time_int": 50165,
         "user": "GrandMaster",
-        "content": "HE"
+        "content": "85"
     },
     {
         "action": "MOVE",
         "time": "13:56:34",
         "time_int": 50194,
         "user": "slappanu",
-        "content": "LI"
+        "content": "c9"
     },
     {
         "action": "MOVE",
         "time": "13:56:56",
         "time_int": 50216,
         "user": "GrandMaster",
-        "content": "IF"
+        "content": "96"
     },
     {
         "action": "TALK",
@@ -1201,7 +1201,7 @@
         "time": "13:57:54",
         "time_int": 50274,
         "user": "slappanu",
-        "content": "LG"
+        "content": "c7"
     },
     {
         "action": "BACK",
@@ -1215,35 +1215,35 @@
         "time": "13:57:58",
         "time_int": 50278,
         "user": "slappanu",
-        "content": "IH"
+        "content": "98"
     },
     {
         "action": "MOVE",
         "time": "13:58:00",
         "time_int": 50280,
         "user": "slappanu",
-        "content": "LG"
+        "content": "c7"
     },
     {
         "action": "MOVE",
         "time": "13:58:11",
         "time_int": 50291,
         "user": "GrandMaster",
-        "content": "ID"
+        "content": "94"
     },
     {
         "action": "MOVE",
         "time": "13:58:47",
         "time_int": 50327,
         "user": "slappanu",
-        "content": "KH"
+        "content": "b8"
     },
     {
         "action": "MOVE",
         "time": "13:59:26",
         "time_int": 50366,
         "user": "GrandMaster",
-        "content": "KJ"
+        "content": "ba"
     },
     {
         "action": "TALK",
@@ -1285,14 +1285,14 @@
         "time": "14:00:09",
         "time_int": 50409,
         "user": "GrandMaster",
-        "content": "017"
+        "content": 17
     },
     {
         "action": "MOVE",
         "time": "14:00:16",
         "time_int": 50416,
         "user": "slappanu",
-        "content": "EH"
+        "content": "58"
     },
     {
         "action": "TALK",
@@ -1327,21 +1327,21 @@
         "time": "14:00:46",
         "time_int": 50446,
         "user": "GrandMaster",
-        "content": "DI"
+        "content": "49"
     },
     {
         "action": "MOVE",
         "time": "14:00:50",
         "time_int": 50450,
         "user": "slappanu",
-        "content": "FH"
+        "content": "68"
     },
     {
         "action": "MOVE",
         "time": "14:00:53",
         "time_int": 50453,
         "user": "GrandMaster",
-        "content": "EG"
+        "content": "57"
     },
     {
         "action": "TALK",
@@ -1362,7 +1362,7 @@
         "time": "14:01:03",
         "time_int": 50463,
         "user": "slappanu",
-        "content": "KH"
+        "content": "b8"
     },
     {
         "action": "TALK",
@@ -1383,7 +1383,7 @@
         "time": "14:01:49",
         "time_int": 50509,
         "user": "GrandMaster",
-        "content": "HE"
+        "content": "85"
     },
     {
         "action": "TALK",
@@ -1404,7 +1404,7 @@
         "time": "14:02:09",
         "time_int": 50529,
         "user": "slappanu",
-        "content": "KF"
+        "content": "b6"
     },
     {
         "action": "TALK",
@@ -1418,7 +1418,7 @@
         "time": "14:02:19",
         "time_int": 50539,
         "user": "GrandMaster",
-        "content": "IH"
+        "content": "98"
     },
     {
         "action": "TALK",
@@ -1502,7 +1502,7 @@
         "time": "14:02:59",
         "time_int": 50579,
         "user": "Renju_liu_t",
-        "content": "KH"
+        "content": "b8"
     },
     {
         "action": "TALK",
@@ -1516,14 +1516,14 @@
         "time": "14:03:13",
         "time_int": 50593,
         "user": "GrandMaster",
-        "content": "HE"
+        "content": "85"
     },
     {
         "action": "MOVE",
         "time": "14:03:16",
         "time_int": 50596,
         "user": "Renju_liu_t",
-        "content": "IK"
+        "content": "9b"
     },
     {
         "action": "TALK",
@@ -1537,7 +1537,7 @@
         "time": "14:03:28",
         "time_int": 50608,
         "user": "GrandMaster",
-        "content": "IL"
+        "content": "9c"
     },
     {
         "action": "TALK",
@@ -1565,21 +1565,21 @@
         "time": "14:04:08",
         "time_int": 50648,
         "user": "Renju_liu_t",
-        "content": "IG"
+        "content": "97"
     },
     {
         "action": "MOVE",
         "time": "14:04:10",
         "time_int": 50650,
         "user": "GrandMaster",
-        "content": "IH"
+        "content": "98"
     },
     {
         "action": "MOVE",
         "time": "14:04:12",
         "time_int": 50652,
         "user": "Renju_liu_t",
-        "content": "JJ"
+        "content": "aa"
     },
     {
         "action": "TALK",
@@ -1663,14 +1663,14 @@
         "time": "14:05:02",
         "time_int": 50702,
         "user": "Renju_liu_t",
-        "content": "IF"
+        "content": "96"
     },
     {
         "action": "MOVE",
         "time": "14:05:04",
         "time_int": 50704,
         "user": "Renju_liu_t",
-        "content": "KF"
+        "content": "b6"
     },
     {
         "action": "TALK",
@@ -1705,28 +1705,28 @@
         "time": "14:05:22",
         "time_int": 50722,
         "user": "GrandMaster",
-        "content": "IG"
+        "content": "97"
     },
     {
         "action": "MOVE",
         "time": "14:05:30",
         "time_int": 50730,
         "user": "Renju_liu_t",
-        "content": "ID"
+        "content": "94"
     },
     {
         "action": "MOVE",
         "time": "14:05:33",
         "time_int": 50733,
         "user": "GrandMaster",
-        "content": "HE"
+        "content": "85"
     },
     {
         "action": "MOVE",
         "time": "14:05:35",
         "time_int": 50735,
         "user": "Renju_liu_t",
-        "content": "LG"
+        "content": "c7"
     },
     {
         "action": "TALK",
@@ -1775,14 +1775,14 @@
         "time": "14:06:05",
         "time_int": 50765,
         "user": "Renju_liu_t",
-        "content": "JE"
+        "content": "a5"
     },
     {
         "action": "MOVE",
         "time": "14:06:06",
         "time_int": 50766,
         "user": "Renju_liu_t",
-        "content": "LE"
+        "content": "c5"
     },
     {
         "action": "TALK",
@@ -1796,7 +1796,7 @@
         "time": "14:06:07",
         "time_int": 50767,
         "user": "Renju_liu_t",
-        "content": "IH"
+        "content": "98"
     },
     {
         "action": "TALK",
@@ -1831,7 +1831,7 @@
         "time": "14:06:15",
         "time_int": 50775,
         "user": "GrandMaster",
-        "content": "IH"
+        "content": "98"
     },
     {
         "action": "BACK",
@@ -1845,28 +1845,28 @@
         "time": "14:06:17",
         "time_int": 50777,
         "user": "GrandMaster",
-        "content": "JE"
+        "content": "a5"
     },
     {
         "action": "MOVE",
         "time": "14:06:18",
         "time_int": 50778,
         "user": "GrandMaster",
-        "content": "IH"
+        "content": "98"
     },
     {
         "action": "MOVE",
         "time": "14:06:19",
         "time_int": 50779,
         "user": "GrandMaster",
-        "content": "LE"
+        "content": "c5"
     },
     {
         "action": "MOVE",
         "time": "14:06:20",
         "time_int": 50780,
         "user": "GrandMaster",
-        "content": "KG"
+        "content": "b7"
     },
     {
         "action": "TALK",
@@ -1901,7 +1901,7 @@
         "time": "14:06:33",
         "time_int": 50793,
         "user": "Renju_liu_t",
-        "content": "LE"
+        "content": "c5"
     },
     {
         "action": "TALK",
@@ -1915,14 +1915,14 @@
         "time": "14:06:34",
         "time_int": 50794,
         "user": "Renju_liu_t",
-        "content": "IH"
+        "content": "98"
     },
     {
         "action": "MOVE",
         "time": "14:06:35",
         "time_int": 50795,
         "user": "Renju_liu_t",
-        "content": "LD"
+        "content": "c4"
     },
     {
         "action": "BACK",
@@ -2020,14 +2020,14 @@
         "time": "14:06:50",
         "time_int": 50810,
         "user": "GrandMaster",
-        "content": "EH"
+        "content": "58"
     },
     {
         "action": "MOVE",
         "time": "14:06:51",
         "time_int": 50811,
         "user": "GrandMaster",
-        "content": "HE"
+        "content": "85"
     },
     {
         "action": "TALK",
@@ -2048,7 +2048,7 @@
         "time": "14:07:43",
         "time_int": 50863,
         "user": "Renju_liu_t",
-        "content": "FH"
+        "content": "68"
     },
     {
         "action": "TALK",
@@ -2062,21 +2062,21 @@
         "time": "14:08:07",
         "time_int": 50887,
         "user": "GrandMaster",
-        "content": "EG"
+        "content": "57"
     },
     {
         "action": "MOVE",
         "time": "14:08:18",
         "time_int": 50898,
         "user": "Renju_liu_t",
-        "content": "IK"
+        "content": "9b"
     },
     {
         "action": "MOVE",
         "time": "14:08:31",
         "time_int": 50911,
         "user": "GrandMaster",
-        "content": "IL"
+        "content": "9c"
     },
     {
         "action": "TALK",
@@ -2160,7 +2160,7 @@
         "time": "14:10:52",
         "time_int": 51052,
         "user": "Renju_liu_t",
-        "content": "HE"
+        "content": "85"
     },
     {
         "action": "CHECKRESULT",
@@ -2286,42 +2286,42 @@
         "time": "14:13:48",
         "time_int": 51228,
         "user": "GrandMaster",
-        "content": "IF"
+        "content": "96"
     },
     {
         "action": "MOVE",
         "time": "14:13:54",
         "time_int": 51234,
         "user": "GrandMaster",
-        "content": "HE"
+        "content": "85"
     },
     {
         "action": "MOVE",
         "time": "14:13:55",
         "time_int": 51235,
         "user": "GrandMaster",
-        "content": "ID"
+        "content": "94"
     },
     {
         "action": "MOVE",
         "time": "14:13:56",
         "time_int": 51236,
         "user": "GrandMaster",
-        "content": "GG"
+        "content": "77"
     },
     {
         "action": "MOVE",
         "time": "14:13:56",
         "time_int": 51236,
         "user": "GrandMaster",
-        "content": "GE"
+        "content": "75"
     },
     {
         "action": "MOVE",
         "time": "14:13:57",
         "time_int": 51237,
         "user": "GrandMaster",
-        "content": "HG"
+        "content": "87"
     },
     {
         "action": "TALK",
@@ -2377,7 +2377,7 @@
         "time": "14:14:12",
         "time_int": 51252,
         "user": "GrandMaster",
-        "content": "GG"
+        "content": "77"
     },
     {
         "action": "TALK",
@@ -2510,7 +2510,7 @@
         "time": "14:17:00",
         "time_int": 51420,
         "user": "GrandMaster",
-        "content": "FG"
+        "content": "67"
     },
     {
         "action": "TALK",
@@ -2566,7 +2566,7 @@
         "time": "14:17:59",
         "time_int": 51479,
         "user": "Renju_liu_t",
-        "content": "IK"
+        "content": "9b"
     },
     {
         "action": "TALK",
@@ -2580,7 +2580,7 @@
         "time": "14:18:01",
         "time_int": 51481,
         "user": "GrandMaster",
-        "content": "IL"
+        "content": "9c"
     },
     {
         "action": "TALK",
@@ -2594,42 +2594,42 @@
         "time": "14:18:03",
         "time_int": 51483,
         "user": "Renju_liu_t",
-        "content": "JK"
+        "content": "ab"
     },
     {
         "action": "MOVE",
         "time": "14:18:05",
         "time_int": 51485,
         "user": "GrandMaster",
-        "content": "KL"
+        "content": "bc"
     },
     {
         "action": "MOVE",
         "time": "14:18:06",
         "time_int": 51486,
         "user": "Renju_liu_t",
-        "content": "HK"
+        "content": "8b"
     },
     {
         "action": "MOVE",
         "time": "14:18:10",
         "time_int": 51490,
         "user": "GrandMaster",
-        "content": "GK"
+        "content": "7b"
     },
     {
         "action": "MOVE",
         "time": "14:18:19",
         "time_int": 51499,
         "user": "Renju_liu_t",
-        "content": "HJ"
+        "content": "8a"
     },
     {
         "action": "MOVE",
         "time": "14:18:22",
         "time_int": 51502,
         "user": "GrandMaster",
-        "content": "FH"
+        "content": "68"
     },
     {
         "action": "TALK",
@@ -2643,7 +2643,7 @@
         "time": "14:19:13",
         "time_int": 51553,
         "user": "Renju_liu_t",
-        "content": "FJ"
+        "content": "6a"
     },
     {
         "action": "TALK",
@@ -2678,49 +2678,49 @@
         "time": "14:19:43",
         "time_int": 51583,
         "user": "GrandMaster",
-        "content": "JJ"
+        "content": "aa"
     },
     {
         "action": "MOVE",
         "time": "14:20:34",
         "time_int": 51634,
         "user": "Renju_liu_t",
-        "content": "FM"
+        "content": "6d"
     },
     {
         "action": "MOVE",
         "time": "14:21:47",
         "time_int": 51707,
         "user": "GrandMaster",
-        "content": "HL"
+        "content": "8c"
     },
     {
         "action": "MOVE",
         "time": "14:22:20",
         "time_int": 51740,
         "user": "Renju_liu_t",
-        "content": "JL"
+        "content": "ac"
     },
     {
         "action": "MOVE",
         "time": "14:22:21",
         "time_int": 51741,
         "user": "GrandMaster",
-        "content": "KM"
+        "content": "bd"
     },
     {
         "action": "MOVE",
         "time": "14:22:24",
         "time_int": 51744,
         "user": "Renju_liu_t",
-        "content": "KK"
+        "content": "bb"
     },
     {
         "action": "MOVE",
         "time": "14:22:26",
         "time_int": 51746,
         "user": "GrandMaster",
-        "content": "LK"
+        "content": "cb"
     },
     {
         "action": "TALK",
@@ -2818,7 +2818,7 @@
         "time": "14:23:43",
         "time_int": 51823,
         "user": "Renju_liu_t",
-        "content": "HL"
+        "content": "8c"
     },
     {
         "action": "TALK",
@@ -2832,14 +2832,14 @@
         "time": "14:24:06",
         "time_int": 51846,
         "user": "GrandMaster",
-        "content": "FH"
+        "content": "68"
     },
     {
         "action": "MOVE",
         "time": "14:24:08",
         "time_int": 51848,
         "user": "Renju_liu_t",
-        "content": "FJ"
+        "content": "6a"
     },
     {
         "action": "TALK",
@@ -2881,28 +2881,28 @@
         "time": "14:24:58",
         "time_int": 51898,
         "user": "GrandMaster",
-        "content": "JJ"
+        "content": "aa"
     },
     {
         "action": "MOVE",
         "time": "14:25:07",
         "time_int": 51907,
         "user": "GrandMaster",
-        "content": "HM"
+        "content": "8d"
     },
     {
         "action": "MOVE",
         "time": "14:25:08",
         "time_int": 51908,
         "user": "GrandMaster",
-        "content": "HJ"
+        "content": "8a"
     },
     {
         "action": "MOVE",
         "time": "14:25:08",
         "time_int": 51908,
         "user": "GrandMaster",
-        "content": "FM"
+        "content": "6d"
     },
     {
         "action": "BACK",
@@ -2944,35 +2944,35 @@
         "time": "14:25:33",
         "time_int": 51933,
         "user": "GrandMaster",
-        "content": "HM"
+        "content": "8d"
     },
     {
         "action": "MOVE",
         "time": "14:25:35",
         "time_int": 51935,
         "user": "GrandMaster",
-        "content": "LK"
+        "content": "cb"
     },
     {
         "action": "MOVE",
         "time": "14:25:35",
         "time_int": 51935,
         "user": "GrandMaster",
-        "content": "KK"
+        "content": "bb"
     },
     {
         "action": "MOVE",
         "time": "14:25:37",
         "time_int": 51937,
         "user": "GrandMaster",
-        "content": "IH"
+        "content": "98"
     },
     {
         "action": "MOVE",
         "time": "14:25:37",
         "time_int": 51937,
         "user": "GrandMaster",
-        "content": "IG"
+        "content": "97"
     },
     {
         "action": "BACK",
@@ -3245,35 +3245,35 @@
         "time": "14:28:22",
         "time_int": 52102,
         "user": "GrandMaster",
-        "content": "IH"
+        "content": "98"
     },
     {
         "action": "MOVE",
         "time": "14:28:36",
         "time_int": 52116,
         "user": "GrandMaster",
-        "content": "KH"
+        "content": "b8"
     },
     {
         "action": "MOVE",
         "time": "14:28:39",
         "time_int": 52119,
         "user": "GrandMaster",
-        "content": "GF"
+        "content": "76"
     },
     {
         "action": "MOVE",
         "time": "14:28:40",
         "time_int": 52120,
         "user": "GrandMaster",
-        "content": "HG"
+        "content": "87"
     },
     {
         "action": "MOVE",
         "time": "14:28:41",
         "time_int": 52121,
         "user": "GrandMaster",
-        "content": "FG"
+        "content": "67"
     },
     {
         "action": "TALK",
@@ -3357,7 +3357,7 @@
         "time": "14:30:04",
         "time_int": 52204,
         "user": "skywalker",
-        "content": "KJ"
+        "content": "ba"
     },
     {
         "action": "TALK",
@@ -3385,14 +3385,14 @@
         "time": "14:31:20",
         "time_int": 52280,
         "user": "GrandMaster",
-        "content": "FG"
+        "content": "67"
     },
     {
         "action": "MOVE",
         "time": "14:31:29",
         "time_int": 52289,
         "user": "skywalker",
-        "content": "FH"
+        "content": "68"
     },
     {
         "action": "TALK",
@@ -3406,7 +3406,7 @@
         "time": "14:31:41",
         "time_int": 52301,
         "user": "GrandMaster",
-        "content": "GF"
+        "content": "76"
     },
     {
         "action": "TALK",
@@ -3455,21 +3455,21 @@
         "time": "14:32:34",
         "time_int": 52354,
         "user": "skywalker",
-        "content": "IK"
+        "content": "9b"
     },
     {
         "action": "MOVE",
         "time": "14:32:46",
         "time_int": 52366,
         "user": "GrandMaster",
-        "content": "EG"
+        "content": "57"
     },
     {
         "action": "MOVE",
         "time": "14:32:51",
         "time_int": 52371,
         "user": "skywalker",
-        "content": "GG"
+        "content": "77"
     },
     {
         "action": "TALK",
@@ -3511,7 +3511,7 @@
         "time": "14:33:16",
         "time_int": 52396,
         "user": "GrandMaster",
-        "content": "HJ"
+        "content": "8a"
     },
     {
         "action": "TALK",
@@ -3525,7 +3525,7 @@
         "time": "14:33:33",
         "time_int": 52413,
         "user": "skywalker",
-        "content": "KH"
+        "content": "b8"
     },
     {
         "action": "TALK",
@@ -3609,28 +3609,28 @@
         "time": "14:34:59",
         "time_int": 52499,
         "user": "GrandMaster",
-        "content": "IH"
+        "content": "98"
     },
     {
         "action": "MOVE",
         "time": "14:35:00",
         "time_int": 52500,
         "user": "GrandMaster",
-        "content": "KJ"
+        "content": "ba"
     },
     {
         "action": "MOVE",
         "time": "14:35:02",
         "time_int": 52502,
         "user": "GrandMaster",
-        "content": "FG"
+        "content": "67"
     },
     {
         "action": "MOVE",
         "time": "14:35:03",
         "time_int": 52503,
         "user": "GrandMaster",
-        "content": "FH"
+        "content": "68"
     },
     {
         "action": "CHECKRESULT",
@@ -3651,35 +3651,35 @@
         "time": "14:35:17",
         "time_int": 52517,
         "user": "GrandMaster",
-        "content": "GG"
+        "content": "77"
     },
     {
         "action": "MOVE",
         "time": "14:35:36",
         "time_int": 52536,
         "user": "GrandMaster",
-        "content": "IJ"
+        "content": "9a"
     },
     {
         "action": "MOVE",
         "time": "14:35:44",
         "time_int": 52544,
         "user": "skywalker",
-        "content": "EG"
+        "content": "57"
     },
     {
         "action": "MOVE",
         "time": "14:35:55",
         "time_int": 52555,
         "user": "GrandMaster",
-        "content": "HG"
+        "content": "87"
     },
     {
         "action": "MOVE",
         "time": "14:36:13",
         "time_int": 52573,
         "user": "skywalker",
-        "content": "IE"
+        "content": "95"
     },
     {
         "action": "TALK",
@@ -3693,7 +3693,7 @@
         "time": "14:36:28",
         "time_int": 52588,
         "user": "GrandMaster",
-        "content": "KH"
+        "content": "b8"
     },
     {
         "action": "TALK",
@@ -3903,35 +3903,35 @@
         "time": "14:39:34",
         "time_int": 52774,
         "user": "GrandMaster",
-        "content": "IJ"
+        "content": "9a"
     },
     {
         "action": "MOVE",
         "time": "14:39:42",
         "time_int": 52782,
         "user": "GrandMaster",
-        "content": "GJ"
+        "content": "7a"
     },
     {
         "action": "MOVE",
         "time": "14:39:45",
         "time_int": 52785,
         "user": "GrandMaster",
-        "content": "GG"
+        "content": "77"
     },
     {
         "action": "MOVE",
         "time": "14:39:46",
         "time_int": 52786,
         "user": "GrandMaster",
-        "content": "GK"
+        "content": "7b"
     },
     {
         "action": "MOVE",
         "time": "14:39:48",
         "time_int": 52788,
         "user": "GrandMaster",
-        "content": "GL"
+        "content": "7c"
     },
     {
         "action": "BACK",
@@ -3959,42 +3959,42 @@
         "time": "14:39:52",
         "time_int": 52792,
         "user": "GrandMaster",
-        "content": "GK"
+        "content": "7b"
     },
     {
         "action": "MOVE",
         "time": "14:39:53",
         "time_int": 52793,
         "user": "GrandMaster",
-        "content": "IH"
+        "content": "98"
     },
     {
         "action": "MOVE",
         "time": "14:39:54",
         "time_int": 52794,
         "user": "GrandMaster",
-        "content": "JG"
+        "content": "a7"
     },
     {
         "action": "MOVE",
         "time": "14:39:54",
         "time_int": 52794,
         "user": "GrandMaster",
-        "content": "JI"
+        "content": "a9"
     },
     {
         "action": "MOVE",
         "time": "14:39:54",
         "time_int": 52794,
         "user": "GrandMaster",
-        "content": "KI"
+        "content": "b9"
     },
     {
         "action": "MOVE",
         "time": "14:39:55",
         "time_int": 52795,
         "user": "GrandMaster",
-        "content": "GF"
+        "content": "76"
     },
     {
         "action": "BACK",
@@ -4260,7 +4260,7 @@
         "time": "14:43:14",
         "time_int": 52994,
         "user": "GrandMaster",
-        "content": "IH"
+        "content": "98"
     },
     {
         "action": "TALK",
@@ -4288,63 +4288,63 @@
         "time": "14:43:30",
         "time_int": 53010,
         "user": "GrandMaster",
-        "content": "IG"
+        "content": "97"
     },
     {
         "action": "MOVE",
         "time": "14:43:35",
         "time_int": 53015,
         "user": "GrandMaster",
-        "content": "JG"
+        "content": "a7"
     },
     {
         "action": "MOVE",
         "time": "14:43:36",
         "time_int": 53016,
         "user": "GrandMaster",
-        "content": "GJ"
+        "content": "7a"
     },
     {
         "action": "MOVE",
         "time": "14:43:38",
         "time_int": 53018,
         "user": "GrandMaster",
-        "content": "KI"
+        "content": "b9"
     },
     {
         "action": "MOVE",
         "time": "14:43:40",
         "time_int": 53020,
         "user": "GrandMaster",
-        "content": "JI"
+        "content": "a9"
     },
     {
         "action": "MOVE",
         "time": "14:43:41",
         "time_int": 53021,
         "user": "GrandMaster",
-        "content": "IJ"
+        "content": "9a"
     },
     {
         "action": "MOVE",
         "time": "14:43:45",
         "time_int": 53025,
         "user": "GrandMaster",
-        "content": "IL"
+        "content": "9c"
     },
     {
         "action": "MOVE",
         "time": "14:43:47",
         "time_int": 53027,
         "user": "GrandMaster",
-        "content": "HK"
+        "content": "8b"
     },
     {
         "action": "MOVE",
         "time": "14:43:47",
         "time_int": 53027,
         "user": "GrandMaster",
-        "content": "JK"
+        "content": "ab"
     },
     {
         "action": "TALK",
@@ -4449,7 +4449,7 @@
         "time": "14:45:38",
         "time_int": 53138,
         "user": "GrandMaster",
-        "content": "HF"
+        "content": "86"
     },
     {
         "action": "TALK",
@@ -4526,28 +4526,28 @@
         "time": "14:46:45",
         "time_int": 53205,
         "user": "GrandMaster",
-        "content": "EJ"
+        "content": "5a"
     },
     {
         "action": "MOVE",
         "time": "14:46:47",
         "time_int": 53207,
         "user": "GrandMaster",
-        "content": "JJ"
+        "content": "aa"
     },
     {
         "action": "MOVE",
         "time": "14:46:52",
         "time_int": 53212,
         "user": "GrandMaster",
-        "content": "DJ"
+        "content": "4a"
     },
     {
         "action": "MOVE",
         "time": "14:47:05",
         "time_int": 53225,
         "user": "GrandMaster",
-        "content": "HJ"
+        "content": "8a"
     },
     {
         "action": "TALK",
@@ -4617,42 +4617,42 @@
         "time": "14:48:01",
         "time_int": 53281,
         "user": "GrandMaster",
-        "content": "KJ"
+        "content": "ba"
     },
     {
         "action": "MOVE",
         "time": "14:48:02",
         "time_int": 53282,
         "user": "GrandMaster",
-        "content": "HM"
+        "content": "8d"
     },
     {
         "action": "MOVE",
         "time": "14:48:03",
         "time_int": 53283,
         "user": "GrandMaster",
-        "content": "HL"
+        "content": "8c"
     },
     {
         "action": "MOVE",
         "time": "14:48:08",
         "time_int": 53288,
         "user": "GrandMaster",
-        "content": "FH"
+        "content": "68"
     },
     {
         "action": "MOVE",
         "time": "14:48:09",
         "time_int": 53289,
         "user": "GrandMaster",
-        "content": "EG"
+        "content": "57"
     },
     {
         "action": "MOVE",
         "time": "14:48:10",
         "time_int": 53290,
         "user": "GrandMaster",
-        "content": "CJ"
+        "content": "3a"
     },
     {
         "action": "TALK",
@@ -4743,77 +4743,77 @@
         "time": "14:50:00",
         "time_int": 53400,
         "user": "skywalker",
-        "content": "FL"
+        "content": "6c"
     },
     {
         "action": "MOVE",
         "time": "14:50:04",
         "time_int": 53404,
         "user": "GrandMaster",
-        "content": "GL"
+        "content": "7c"
     },
     {
         "action": "MOVE",
         "time": "14:50:07",
         "time_int": 53407,
         "user": "skywalker",
-        "content": "EK"
+        "content": "5b"
     },
     {
         "action": "MOVE",
         "time": "14:50:23",
         "time_int": 53423,
         "user": "GrandMaster",
-        "content": "FM"
+        "content": "6d"
     },
     {
         "action": "MOVE",
         "time": "14:50:26",
         "time_int": 53426,
         "user": "skywalker",
-        "content": "EN"
+        "content": "5e"
     },
     {
         "action": "MOVE",
         "time": "14:50:27",
         "time_int": 53427,
         "user": "GrandMaster",
-        "content": "CI"
+        "content": "39"
     },
     {
         "action": "MOVE",
         "time": "14:50:54",
         "time_int": 53454,
         "user": "skywalker",
-        "content": "CL"
+        "content": "3c"
     },
     {
         "action": "MOVE",
         "time": "14:51:01",
         "time_int": 53461,
         "user": "GrandMaster",
-        "content": "DK"
+        "content": "4b"
     },
     {
         "action": "MOVE",
         "time": "14:51:05",
         "time_int": 53465,
         "user": "skywalker",
-        "content": "EL"
+        "content": "5c"
     },
     {
         "action": "MOVE",
         "time": "14:51:06",
         "time_int": 53466,
         "user": "GrandMaster",
-        "content": "EM"
+        "content": "5d"
     },
     {
         "action": "MOVE",
         "time": "14:51:15",
         "time_int": 53475,
         "user": "skywalker",
-        "content": "DM"
+        "content": "4d"
     },
     {
         "action": "TALK",
@@ -4827,14 +4827,14 @@
         "time": "14:51:36",
         "time_int": 53496,
         "user": "GrandMaster",
-        "content": "BK"
+        "content": "2b"
     },
     {
         "action": "MOVE",
         "time": "14:51:42",
         "time_int": 53502,
         "user": "skywalker",
-        "content": "BN"
+        "content": "2e"
     },
     {
         "action": "TALK",
@@ -4953,49 +4953,49 @@
         "time": "14:52:08",
         "time_int": 53528,
         "user": "GrandMaster",
-        "content": "DK"
+        "content": "4b"
     },
     {
         "action": "MOVE",
         "time": "14:52:10",
         "time_int": 53530,
         "user": "GrandMaster",
-        "content": "CL"
+        "content": "3c"
     },
     {
         "action": "MOVE",
         "time": "14:52:17",
         "time_int": 53537,
         "user": "GrandMaster",
-        "content": "DI"
+        "content": "49"
     },
     {
         "action": "MOVE",
         "time": "14:52:17",
         "time_int": 53537,
         "user": "GrandMaster",
-        "content": "DH"
+        "content": "48"
     },
     {
         "action": "MOVE",
         "time": "14:52:18",
         "time_int": 53538,
         "user": "GrandMaster",
-        "content": "CH"
+        "content": "38"
     },
     {
         "action": "MOVE",
         "time": "14:52:19",
         "time_int": 53539,
         "user": "GrandMaster",
-        "content": "BG"
+        "content": "27"
     },
     {
         "action": "MOVE",
         "time": "14:52:20",
         "time_int": 53540,
         "user": "GrandMaster",
-        "content": "GL"
+        "content": "7c"
     },
     {
         "action": "TALK",
@@ -5065,14 +5065,14 @@
         "time": "14:53:54",
         "time_int": 53634,
         "user": "GrandMaster",
-        "content": "007"
+        "content": 7
     },
     {
         "action": "MOVE",
         "time": "14:54:00",
         "time_int": 53640,
         "user": "GrandMaster",
-        "content": "GH"
+        "content": "78"
     },
     {
         "action": "TALK",
@@ -5121,7 +5121,7 @@
         "time": "14:54:53",
         "time_int": 53693,
         "user": "GrandMaster",
-        "content": "IH"
+        "content": "98"
     },
     {
         "action": "TALK",
@@ -5233,7 +5233,7 @@
         "time": "14:56:18",
         "time_int": 53778,
         "user": "GrandMaster",
-        "content": "GH"
+        "content": "78"
     },
     {
         "action": "CREDIT",

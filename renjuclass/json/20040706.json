@@ -1481,21 +1481,21 @@
         "time": "17:17:00",
         "time_int": 62220,
         "user": "GrandMaster",
-        "content": "HH"
+        "content": "88"
     },
     {
         "action": "MOVE",
         "time": "17:17:02",
         "time_int": 62222,
         "user": "GrandMaster",
-        "content": "II"
+        "content": "99"
     },
     {
         "action": "MOVE",
         "time": "17:17:02",
         "time_int": 62222,
         "user": "GrandMaster",
-        "content": "IG"
+        "content": "97"
     },
     {
         "action": "TALK",
@@ -1523,14 +1523,14 @@
         "time": "17:17:24",
         "time_int": 62244,
         "user": "GrandMaster",
-        "content": "HI"
+        "content": "89"
     },
     {
         "action": "MOVE",
         "time": "17:17:25",
         "time_int": 62245,
         "user": "GrandMaster",
-        "content": "II"
+        "content": "99"
     },
     {
         "action": "TALK",
@@ -2006,7 +2006,7 @@
         "time": "17:30:18",
         "time_int": 63018,
         "user": "GrandMaster",
-        "content": "II"
+        "content": "99"
     },
     {
         "action": "TALK",
@@ -2041,7 +2041,7 @@
         "time": "17:31:09",
         "time_int": 63069,
         "user": "GrandMaster",
-        "content": "IG"
+        "content": "97"
     },
     {
         "action": "TALK",
@@ -2111,14 +2111,14 @@
         "time": "17:33:03",
         "time_int": 63183,
         "user": "GrandMaster",
-        "content": "JG"
+        "content": "a7"
     },
     {
         "action": "MOVE",
         "time": "17:33:05",
         "time_int": 63185,
         "user": "GrandMaster",
-        "content": "KG"
+        "content": "b7"
     },
     {
         "action": "TALK",
@@ -2853,14 +2853,14 @@
         "time": "17:51:20",
         "time_int": 64280,
         "user": "killer21st",
-        "content": "GE"
+        "content": "75"
     },
     {
         "action": "MOVE",
         "time": "17:51:25",
         "time_int": 64285,
         "user": "killer21st",
-        "content": "LK"
+        "content": "cb"
     },
     {
         "action": "TALK",
@@ -2888,7 +2888,7 @@
         "time": "17:52:06",
         "time_int": 64326,
         "user": "killer21st",
-        "content": "IL"
+        "content": "9c"
     },
     {
         "action": "BACK",
@@ -2902,7 +2902,7 @@
         "time": "17:52:10",
         "time_int": 64330,
         "user": "killer21st",
-        "content": "FK"
+        "content": "6b"
     },
     {
         "action": "TALK",
@@ -2930,14 +2930,14 @@
         "time": "17:52:15",
         "time_int": 64335,
         "user": "killer21st",
-        "content": "HF"
+        "content": "86"
     },
     {
         "action": "MOVE",
         "time": "17:52:17",
         "time_int": 64337,
         "user": "killer21st",
-        "content": "KK"
+        "content": "bb"
     },
     {
         "action": "TALK",
