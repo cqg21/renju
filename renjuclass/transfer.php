@@ -47,6 +47,7 @@ function transfer($file)
 }
 
 $transferred = [];
+$actions = [];
 $dir = __DIR__.'/data/';
 $fhandler = opendir($dir);
 while ($fname = readdir($fhandler))
@@ -62,8 +63,10 @@ while ($fname = readdir($fhandler))
             'source_file_name' => $fname,
             //'data' => $content
         ];
+        $actions = array_unique($actions + array_column($content,'action'));
         file_put_contents(__DIR__.'/json/'.$output,json_encode($content,JSON_PRETTY_PRINT | JSON_UNESCAPED_UNICODE));
     }
 }
 
-echo json_encode($transferred,JSON_PRETTY_PRINT);
+var_dump($actions);
+//echo json_encode($transferred,JSON_PRETTY_PRINT);

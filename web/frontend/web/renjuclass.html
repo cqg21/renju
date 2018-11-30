@@ -186,10 +186,8 @@
                 {
                     _obj.endgame = _obj.currgame;
                     //在改变了endgame时，如果不是playing ,则都进入研究模式。
-                    /*if(!playing)
-                    {
-                        _obj.switch_mode('analyze');
-                    }*/
+                    record_player.pause();
+                    _obj.switch_mode('analyze');
                 }
                 if(play_sound)
                 {
@@ -357,7 +355,13 @@
                 obj.pointer ++;
                 if(typeof(obj.record[obj.pointer]) == 'object')
                 {
-                    obj.timer = setTimeout(function(){obj.play();},10 + 300*((obj.record[obj.pointer]['time_int'] - now)));
+                    let delta_time = obj.record[obj.pointer]['time_int'] - now;
+                    if(obj.record[obj.pointer] == 'RESET')
+                    {
+                        delta_time = 1;
+                    }
+                    delta_time = delta_time <= 5 ? delta_time : 5;
+                    obj.timer = setTimeout(function(){obj.play();},10 + 300*delta_time);
                 }
             };
             obj.pause = function(){
@@ -413,6 +417,36 @@
                 li.append(_content);
                 li.appendTo($("#chat_content"));
             };
+            obj.actionCHECKRESULT = function(row){
+
+            };
+            obj.actionEMOTE = function(row){
+
+            };
+            obj.actionGOTO = function(row){
+
+            };
+            obj.actionBACK = function(row){
+
+            };
+            obj.actionFIRST = function(row){
+
+            };
+            obj.actionCREDIT = function(row){
+
+            };
+            obj.actionNEXT = function(row){
+
+            };
+            obj.actionCLEAR = function(row){
+
+            };
+            obj.actionLOAD = function(row){
+
+            };
+            obj.actionLAST = function(row){
+
+            };
             //事件处理结束
         };
 
@@ -436,6 +470,7 @@
                     _link.attr("href","javascript:void(0);");
                     _link.attr("data-source",_tmp["data"]);
                     _link.click(function(){
+                        $("title").text($(this).text() + " @ RenjuClass课程在线学习");
                         load_game($(this).attr('data-source'));
                     });
                     _link.html(_tmp['show_name']);
