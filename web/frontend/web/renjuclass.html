@@ -408,10 +408,6 @@
                 }
             };
 
-            obj.actionRESET = function(){
-                board.load('');
-            };
-
             obj.renderRow = function(row){
                 console.log(row['action']);
                 console.log(row);
@@ -419,8 +415,7 @@
                 let $return = false;
                 if(typeof obj[function_name] == 'function')
                 {
-                    obj[function_name](row);
-                    $return = true;
+                    $return = obj[function_name](row);
                 }
                 else
                 {
@@ -440,6 +435,12 @@
             /**
              * 以下是各种事件的处理方法。
              */
+
+            obj.actionRESET = function(){
+                board.load('');
+                return true;
+            };
+
             obj.actionTALK = function(row){
                 let _name = $("<span>").html(row.user).addClass("chat-name");
                 let _content = $("<span>").html(row.content).addClass("chat-content");
