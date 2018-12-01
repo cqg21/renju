@@ -74,7 +74,10 @@
         #chat_content .teacher{color:#e24329;}
         #chat_content .chat-move{color:#3f9343;}
         #chat_content .chat-sys{color:#9e5724;}
-        #lesson_list{padding: 0 5px 0 5px;width:21%;height:600px;float:left;overflow-x:hidden;overflow-y:scroll;}
+        #lesson_list{padding: 0 5px 0 5px;width:21%;height:560px;float:left;overflow-x:hidden;overflow-y:scroll;}
+        #play_control{padding: 0 5px 0 5px;width:21%;height:60px;float:left;overflow:hidden;}
+        #progress{width:100%;height:20px;overflow:hidden;border:1px solid #ddd}
+        #progress>div{width:0%;height:20px;background-color:#779e23;}
         #lesson_list a{text-decoration: none; margin-bottom: 5px; display: block; }
 
     </style>
@@ -89,6 +92,26 @@
     </div>
     <div id="lesson_list">
         <ul></ul>
+    </div>
+    <div id="play_control">
+        <div id="progress">
+            <div></div>
+        </div>
+        <div class="buttons">
+            <button class="button btn_play">Play &gt;</button>
+            <button class="button btn_pause">Pause ||</button>
+            <select name="speed">
+                <option value="1000">播放速度</option>
+                <option value="1333">0.75倍速</option>
+                <option value="999">正常</option>
+                <option value="667">1.5倍速</option>
+                <option value="1333">0.75倍速</option>
+                <option value="500">2倍速</option>
+                <option value="333">3倍速</option>
+                <option value="100">10倍速</option>
+                <option value="10">100倍速</option>
+            </select>
+        </div>
     </div>
 </div>
 <div class="layui-footer footer footer-doc">
@@ -328,11 +351,13 @@
             this.pointer = 0;//当前播放到第几个action
             this.timer = 0;//计时器
             this.record = [];
+            this.status = 0;
             obj.load = function(record){
                 obj.pause();
                 obj.record = record;
                 obj.pointer = 0;
                 obj.timer = 0;
+                obj.status = 0;
                 board.load('');
                 $("#chat_content").empty();
                 obj.play();
@@ -349,16 +374,25 @@
                 }
                 let now = obj.record[obj.pointer]['time_int'];
                 obj.pointer ++;
+                //计算progress
+                let progress_percent = 0;
+                if(obj.pointer % 5 == 0 && obj.record.length > 0)
+                {
+                    progress_percent = parseInt(obj.pointer * 100 / obj.record.length );
+                    $("#progress>div").css("width", progress_percent + '%');
+                }
+                //progress 结束
                 if(typeof(obj.record[obj.pointer]) == 'object')
                 {
+                    obj.status = 1;
                     let delta_time = obj.record[obj.pointer]['time_int'] - now;
                     if(obj.record[obj.pointer] == 'RESET')
                     {
                         delta_time = 1;
                     }
                     delta_time = delta_time <= 5 ? delta_time : 5;
-                    delta_time = 0;
-                    obj.timer = setTimeout(function(){obj.play();},10 + 300*delta_time);
+                    let speed = parseInt($("select[name=speed]").val());
+                    obj.timer = setTimeout(function(){obj.play();},10 + speed * delta_time);
                 }
                 else
                 {
@@ -368,7 +402,9 @@
             obj.pause = function(){
                 if(obj.timer)
                 {
+                    obj.status = 0;
                     clearTimeout(obj.timer);
+                    obj.timer = 0;
                 }
             };
 
@@ -492,11 +528,15 @@
         record_player = new recordPlayer();
         $(document).ready(function(){
             board.init_board();
-            let load_game = function(source){
+            let load_game = function(source,callback){
                 $.getJSON("/json/" + source,{},function(_data){
                     //play data
                     console.log(source);
                     record_player.load(_data);
+                    if(typeof callback == 'function')
+                    {
+                        callback();
+                    }
                 });
             };
             $.getJSON('/trans.json',{},function(_data){
@@ -508,10 +548,26 @@
                     _link.attr("data-source",_tmp["data"]);
                     _link.click(function(){
                         $("title").text($(this).text() + " @ RenjuClass课程在线学习");
-                        load_game($(this).attr('data-source'));
+                        load_game($(this).attr('data-source'),function(){
+                            record_player.sysMsg("开始播放" + $("title").text());
+                        });
                     });
                     _link.html(_tmp['show_name']);
                     $("<li></li>").append(_link).appendTo($("#lesson_list>ul"));
+                }
+            });
+            $(".btn_play").click(function(){
+                if(record_player.status == 0)
+                {
+                    record_player.sysMsg("继续播放");
+                    record_player.play();
+                }
+            });
+            $(".btn_pause").click(function(){
+                if(record_player.status == 1)
+                {
+                    record_player.sysMsg("播放暂停");
+                    record_player.pause();
                 }
             });
         });
