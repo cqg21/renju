@@ -73,6 +73,7 @@
         #chat_content .chat-name{font-weight: bold;color:#59A8F3;}
         #chat_content .teacher{color:#e24329;}
         #chat_content .chat-move{color:#3f9343;}
+        #chat_content .chat-sys{color:#9e5724;}
         #lesson_list{padding: 0 5px 0 5px;width:21%;height:600px;float:left;overflow-x:hidden;overflow-y:scroll;}
         #lesson_list a{text-decoration: none; margin-bottom: 5px; display: block; }
 
@@ -112,7 +113,7 @@
             let _obj = this;
 
             //整个游戏的数据结构，包括对局进程、状态、双方等等。会通过页面变量或者Websocket推过来。
-            _obj.game_record = '';
+            //_obj.game_record = '';
 
             //字符串，当前局面记录。
             _obj.currgame = '';
@@ -130,7 +131,8 @@
             _obj.load = function( game_record ){
                 //为了播放声音，这里对比一下旧盘面和新load的盘面，决定是否播放一次声音
                 //let play_sound = (_obj.currgame != game_data.game_record);
-                _obj.game_record = game_record;
+                //_obj.game_record = game_record;
+                _obj.endgame = game_record;
                 _obj.show_origin();
                 /*if(play_sound)
                 {
@@ -250,9 +252,9 @@
              */
             _obj.show_origin = function(){
 
-                _obj.switch_mode('game');
+                //_obj.switch_mode('game');
                 _obj.board_clean();
-                _obj.endgame = _obj.game_record;
+                //_obj.endgame = _obj.game_record;
                 _obj.board_end();
             };
 
@@ -340,7 +342,11 @@
                 {
                     return false;
                 }
-                obj.renderRow(obj.record[obj.pointer]);
+                if(!obj.renderRow(obj.record[obj.pointer]))
+                {
+                    obj.sysMsg("播放失败");
+                    return false;
+                }
                 let now = obj.record[obj.pointer]['time_int'];
                 obj.pointer ++;
                 if(typeof(obj.record[obj.pointer]) == 'object')
@@ -351,7 +357,12 @@
                         delta_time = 1;
                     }
                     delta_time = delta_time <= 5 ? delta_time : 5;
+                    delta_time = 0;
                     obj.timer = setTimeout(function(){obj.play();},10 + 300*delta_time);
+                }
+                else
+                {
+                    obj.sysMsg("播放完毕");
                 }
             };
             obj.pause = function(){
@@ -369,9 +380,11 @@
                 console.log(row['action']);
                 console.log(row);
                 let function_name = 'action'+row['action'];
+                let $return = false;
                 if(typeof obj[function_name] == 'function')
                 {
                     obj[function_name](row);
+                    $return = true;
                 }
                 else
                 {
@@ -385,6 +398,7 @@
                     }
                 }
                 $("#chat_content_list").scrollTop($("#chat_content_list")[0].scrollHeight - $("#chat_content_list").height());
+                return $return;
             };
 
             /**
@@ -400,6 +414,7 @@
                 let li = $("<li>");
                 li.append(_name).append(":&nbsp;").append(_content);
                 li.appendTo($("#chat_content"));
+                return true;
             };
             obj.actionMOVE = function(row){
                 //coordinate
@@ -407,18 +422,22 @@
                 let c_y = parseInt(row.content.charAt(1),16);
                 let show_content = board.curr_step.toString() + ' - ' + String.fromCharCode(c_x) + c_y.toString();
 
-                board.place_stone(row.content);
                 let _content = $("<span>").html(row.user + ': ' + show_content).addClass("chat-move");
                 let li = $("<li>");
                 li.append(_content);
                 li.appendTo($("#chat_content"));
+                return board.place_stone(row.content);
             };
+
             obj.actionCHECKRESULT = function(row){
-                return false;
+                obj.sysMsg("点名：" + row.content);
+                return true;
             };
+
             obj.actionEMOTE = function(row){
-                obj.actionTALK(row);
+                return obj.actionTALK(row);
             };
+
             obj.actionGOTO = function(row){
                 while(board.get_current_board().length > row.content * 2)
                 {
@@ -428,29 +447,44 @@
                 {
                     if(!board.move_next()) break;
                 }
+                return true;
             };
+
             obj.actionBACK = function(row){
                 board.move_pre();
+                return true;
             };
             obj.actionFIRST = function(row){
                 board.board_clean();
+                return true;
             };
             obj.actionCREDIT = function(row){
-                return false;
+                obj.sysMsg("本次课程拿到学分的同学：" + row.content);
+                return true;
             };
             obj.actionNEXT = function(row){
                 board.move_next();
+                return true;
             };
             obj.actionCLEAR = function(row){
                 board.load('');
+                return true;
             };
             obj.actionLOAD = function(row){
                 board.load(row.content);
+                return true;
             };
             obj.actionLAST = function(row){
                 board.board_end();
+                return true;
             };
             //事件处理结束
+            obj.sysMsg = function(msg){
+                let li = $("<li>");
+                $("<span>").addClass("chat-sys").html(msg).appendTo(li);
+                li.appendTo($("#chat_content"));
+                $("#chat_content_list").scrollTop($("#chat_content_list")[0].scrollHeight - $("#chat_content_list").height());
+            }
         };
 
         //1.new出对象
